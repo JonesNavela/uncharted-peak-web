@@ -38,26 +38,6 @@ const Footer = () => {
                 </ul>
               </div>
 
-                <ul className="widget-social">
-                  <li>
-                    <a
-                      href="https://www.facebook.com"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      <i className="ri-facebook-fill"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      <i className="ri-instagram-line"></i>
-                    </a>
-                  </li>
-                </ul>
               </div>
             </div>
 

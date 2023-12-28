@@ -7,8 +7,6 @@ import demImage2 from "../../images/home-slides/slides-shape-2.png";
 import demImage3 from "../../images/home-slides/slides-shape-3.png";
 import demImage4 from "../../images/home-slides/slides-shape-4.png";
 import demImage5 from "../../images/home-slides/slides-shape-5.png";
-// import demImage from "../../images/";
-// import Image from 'next/image'
 
 const HeroSlider = () => {
   return (
