@@ -29,11 +29,11 @@ function App() {
 
 <ServiceSlider />
 <br />
-      <ProjectSlider />
+      {/* <ProjectSlider />
 
-      <Testimonials />
+      <Testimonials /> */}
 
-      <Partners />
+      {/* <Partners /> */}
       <div>
         <Footer className="rounded-4" />
       </div>

@@ -30,9 +30,10 @@ const Footer = () => {
                     <a href="mailto:info@unchartedpeak.co.za">info@unchartedpeak.co.za</a>
                   </li>
 
-                  <li className="quick-links">
-                    <i className="ri-map-pin-line copyright-area-content"></i> WeWorks Office,
-                    Sandton
+                  <li>
+                    <i className="ri-map-pin-line"></i>{" "}
+                    <a>WeWorks Office,
+                    Sandton</a>
                   </li>
                 </ul>
               </div>

@@ -46,7 +46,7 @@ const Navbar = () => {
           <div className="main-navbar">
             <div className="container-fluid">
               <nav className="navbar navbar-expand-md navbar-light">
-                <Link href="/about">
+                <Link href="#">
                   <a className="navbar-brand nav-link" style={{ color: '#cdc4d9' }}>
                     <img src="../../images/Unchartedpeak-logo.png" alt="Uncharted Peak logo" style={{ width: '15rem'}} />
                     {/* Uncharted Peak */}
@@ -71,7 +71,7 @@ const Navbar = () => {
                 <div className={classOne} id="navbarSupportedContent">
                   <ul className="navbar-nav ms-auto">
                     <li className="nav-item">
-                      <Link href="#">
+                      <Link href="#home">
                         <a className="nav-link">
                           Home
                         </a>
@@ -85,40 +85,16 @@ const Navbar = () => {
                     </li>
 
                     <li className="nav-item">
-                      <a href="#" className="nav-link">
+                      <a href="#services" className="nav-link">
                         Services
                       </a>
-                      <ul className="dropdown-menu">
-                        <li className="nav-item">
-                          <Link href="#" activeClassName="active">
-                            {/* /services/services */}
-                            <a className="nav-link">Services</a>
-                          </Link>
-                        </li>
-
-                        {/* <li className="nav-item">
-                          <Link href="/services/services-2" activeClassName="active">
-                            <a className="nav-link">Services Style - 2</a>
-                          </Link>
-                        </li> */}
-
-                        <li className="nav-item">
-                          <Link
-                            href="#"
-                            activeClassName="active"
-                          >
-                            {/* /services/service-details */}
-                            <a className="nav-link">Services Details</a>
-                          </Link>
-                        </li>
-                      </ul>
                     </li>
 
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                       <a href="#" className="nav-link">
                         Projects
                       </a>
-                    </li>
+                    </li> */}
 
                     {/* <li className="nav-item">
                       <a href="#" className="nav-link">

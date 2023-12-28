@@ -81,7 +81,7 @@ const HeroSlider = () => {
                     data-aos-duration="700"
                     data-aos-once="true"
                   >
-                    <div className="main-slides-image">
+                    <div className="main-slides-shape-1">
                       <img src={demImage} alt="test!!!!!!"
                       />
                     </div>

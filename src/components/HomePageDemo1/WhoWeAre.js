@@ -4,7 +4,7 @@ import React from "react";
 const WhoWeAre = () => {
   return (
     <>
-      <div className="about-area" style={{ paddingTop: '100px' }} id="#getStarted">
+      <div className="about-area" style={{ paddingTop: '100px' }} id="about">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
@@ -19,7 +19,7 @@ const WhoWeAre = () => {
                 />
               </div>
             </div>
-            <div className="col-lg-6 col-md-12">
+            <div className="col-lg-6 col-md-12" >
               <div
                 className="about-content"
                 data-aos="fade-up"

@@ -564,7 +564,7 @@ Main Slides Area CSS
 
 .main-slides-shape-3 {
   position: absolute;
-  bottom: 10%;
+  bottom: 4%;
   left: 20%;
   z-index: 1;
   -webkit-transform: translateY(-10%) translateX(-20%);

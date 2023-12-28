@@ -6,7 +6,7 @@ import { Autoplay, Pagination } from "swiper";
 const ServiceSlider = () => {
   return (
     <>
-      <div className="services-area with-radius" style={{ paddingTop: '100px' }}>
+      <div className="services-area with-radius" style={{ paddingTop: '100px' }} id="services">
         <div className="container-fluid">
           <div className="row align-items-center">
             <div className="col-lg-4 col-md-12">
