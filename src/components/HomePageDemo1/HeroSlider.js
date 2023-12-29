@@ -11,7 +11,7 @@ import demImage5 from "../../images/home-slides/slides-shape-5.png";
 const HeroSlider = () => {
   return (
     <>
-      <div className="main-slides-area" id="about">
+      <div className="main-slides-area" id="home">
         <Swiper
           spaceBetween={0}
           effect={"fade"}

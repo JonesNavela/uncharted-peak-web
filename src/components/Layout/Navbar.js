@@ -46,7 +46,7 @@ const Navbar = () => {
           <div className="main-navbar">
             <div className="container-fluid">
               <nav className="navbar navbar-expand-md navbar-light">
-                <Link href="#">
+                <Link href="#home">
                   <a className="navbar-brand nav-link" style={{ color: '#cdc4d9' }}>
                     <img src="../../images/Unchartedpeak-logo.png" alt="Uncharted Peak logo" style={{ width: '15rem'}} />
                     {/* Uncharted Peak */}
@@ -71,11 +71,10 @@ const Navbar = () => {
                 <div className={classOne} id="navbarSupportedContent">
                   <ul className="navbar-nav ms-auto">
                     <li className="nav-item">
-                      <Link href="#home">
-                        <a className="nav-link">
+  
+                        <a href="#home" className="nav-link">
                           Home
                         </a>
-                      </Link>
                     </li>
 
                     <li className="nav-item">
