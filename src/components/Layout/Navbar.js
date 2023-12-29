@@ -88,6 +88,11 @@ const Navbar = () => {
                         Services
                       </a>
                     </li>
+                    <li className="nav-item">
+                      <a href="#contactus" className="nav-link">
+                        Contact us
+                      </a>
+                    </li>
 
                     {/* <li className="nav-item">
                       <a href="#" className="nav-link">
