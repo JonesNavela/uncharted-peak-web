@@ -1,6 +1,6 @@
 {
   "name": "uncharted-peak-web",
-  "version": "23.12.28.4",
+  "version": "23.12.31.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

@@ -21,17 +21,17 @@ const Footer = () => {
 
                 <ul className="info-list quick-links">
                   <li>
-                    <i className="ri-phone-fill"></i>{" "}
+                    <i className="ri-phone-fill" style={{ color: '#d9d5de'}}></i>{" "}
                     <a href="tel:0747036831">+27-74-703-6831</a>
                   </li>
 
                   <li>
-                    <i className="ri-mail-line"></i>{" "}
+                    <i className="ri-mail-line" style={{ color: '#d9d5de'}}></i>{" "}
                     <a href="mailto:info@unchartedpeak.co.za">info@unchartedpeak.co.za</a>
                   </li>
 
                   <li>
-                    <i className="ri-map-pin-line"></i>{" "}
+                    <i className="ri-map-pin-line" style={{ color: '#d9d5de'}}></i>{" "}
                     <a>WeWorks Office,
                     Sandton</a>
                   </li>
