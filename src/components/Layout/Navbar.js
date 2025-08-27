@@ -252,7 +252,7 @@ const Navbar = () => {
                 <ul className="info-list">
                   <li>
                     <i className="ri-phone-fill"></i>{" "}
-                    <a href="tel:0124567689">+27-12-456-7689</a>
+                    <a href="tel:0747036831">+27-74-703-6831</a>
                   </li>
 
                   <li>
@@ -261,8 +261,7 @@ const Navbar = () => {
                   </li>
 
                   <li>
-                    <i className="ri-map-pin-line"></i> WeWorks Office,
-                    Sandton
+                    <i className="ri-map-pin-line"></i> 184 Anne Marie Street, Meyerspark
                   </li>
                 </ul>
               </div>

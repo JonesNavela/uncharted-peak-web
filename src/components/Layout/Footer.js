@@ -32,8 +32,7 @@ const Footer = () => {
 
                   <li>
                     <i className="ri-map-pin-line" style={{ color: '#d9d5de'}}></i>{" "}
-                    <a>WeWorks Office,
-                    Sandton</a>
+                    <a>184 Anne Marie Street, Meyerspark</a>
                   </li>
                 </ul>
               </div>
